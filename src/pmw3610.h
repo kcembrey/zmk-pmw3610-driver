@@ -69,7 +69,7 @@ extern "C" {
 #define PMW3610_REG_SPI_PAGE1 0xFF
 
 /* Sensor identification values */
-#define PMW3610_PRODUCT_ID 0x3E
+#define PMW3610_PRODUCT_ID 0xff
 
 /* Power-up register commands */
 #define PMW3610_POWERUP_CMD_RESET 0x5A
